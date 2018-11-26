@@ -1,11 +1,13 @@
 '''
-Mój pierwszy autorski projekt!
-Wykonany 23.11.2018-23.11.2018
-powodzenia! K.B.
+My first own project ever.
+Written: 23.11.2018 - 23.11.2018
+Greetings!
+
+Chris Brymer, author
 '''
 
 # Projekt: kalkulator.
-# dodawanie, odejmowanie, mnożenie, dzielenie. Kwadrat i pierwiastek kwadratowy.
+# dodawanie, odejmowanie, mnożenie, dzielenie.
 
 import os
 from datetime import datetime
