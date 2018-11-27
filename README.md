@@ -2,9 +2,7 @@
 
 Hi guys!
 
-This is my first repository ever, i'll fill it with some simple projects,
-some of them propably might interest you, I hope!
-I'm Chris, 33, a dj from Poland, Silesia.
+I'm Chris, 33, a dj from Poland, Silesia and this is my first repository ever.
 
-...and i'm going to spend a lot of time on GitHub so...see you soon!
+I'm going to spend a lot of time on GitHub so...see you soon!
 
