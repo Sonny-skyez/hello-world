@@ -4,4 +4,4 @@ Hi guys!
 
 Here is some of my ideas / programs written in Python 3.7.
 
-[war - card game] (https://github.com/Sonny-skyez/hello-world/blob/master/war-card-game) - a simple card game witch everybody likes :) it's one of my first programs written ever, so please dont be harsh :) script could be better, but it works!
+[war - card game](https://github.com/Sonny-skyez/hello-world/blob/master/war-card-game) - a simple card game witch everybody likes :) it's one of my first programs written ever, so please dont be harsh :) script could be better, but it works!
